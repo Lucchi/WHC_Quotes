@@ -21,6 +21,7 @@ let quotes = [
     'We’ve all got both light and dark inside us. What matters is the part we choose to act on. That’s who we really are.  \<br>— Sirius Black from Harry Potter',
     'No worry, be happy all gonna be alright',
     'Never tell me the odds!  \<br>— Han Solo from Star Wars',
+    'We dream the flight but we fear the height. To fly one needs to have the courage to face the void. The flight can only happen in the void. The void is the space for freedom, the absence of certainties. But that is what we fear: not having certainties. That is why we change the flight for cages. Cages are the place where certainties live. \<br> — The Brothers Karamazov, Fyodor Dostoyevsky',
     'The best is yet to come!',
     'I shut my eyes and all the world drops dead;\<br> I lift my eyes and all is born again.  \<br>― Sylvia Plath, The Bell Jar',
     '“Which is more important”, asked Big Panda, “the journey or the destination?” … “The company”, said Tiny Dragon.',
