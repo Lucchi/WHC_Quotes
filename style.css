@@ -1,5 +1,5 @@
 body {
-    background-color: #8c1aff;
+    background-color: #386641;
 }
 
 .content {
@@ -11,13 +11,13 @@ body {
 }
 
 h2 {
-    background-color: #4a4be7;
+    background-color: #6A994E;
     color: #ffffff;
     padding: 10px;
     font-family: arial;
     text-align: center;
     border-radius: 5px;
-    box-shadow: 4px 4px #ee9be4;
+    box-shadow: 4px 4px #264653;
 }
 
 .btn {
@@ -25,8 +25,8 @@ h2 {
     width: 150px;
     font-size: 18px;
     color: #ffffff;
-    background-color: #ee9be4;
-    box-shadow: 4px 4px #4a4be7;
+    background-color: #BC4749;
+    box-shadow: 4px 4px #420d0e;
     padding: 5px;
     border-radius: 5px;
 }
@@ -36,9 +36,9 @@ h2 {
     max-width: 500px;
     max-height: 300px;
     text-align: center;
-    background-color: #f2e6ff;
+    background-color: #8ec071;
     border-radius: 5px;
-    border-top: #ee9be4 5px;
+    border-top: #fed9b7 5px;
     margin-top: 20px;
 }
 
