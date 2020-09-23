@@ -1,10 +1,15 @@
 let quotes = [
 
     'Tough times never last, but tough people do. \<br> — Robert Schuller',
+    'If makes you happy, it can’t be that bad.',
+    'Be better, than your better excuse!',
+    'You are stronger than you know.',
+    'We take from life the life that we take',
+    'Maktub \<br> — Arabic expression',
     'Happiness can be found even in the darkest of times, if one only remembers to turn on the light. \<br> — Albus Dumbledore from Harry Potter',
     'In the middle of winter I at last discovered that there was in me an invincible summer. \<br> — Albert Camus',
     'Change what you can, manage what you can’t. \<br> — Raymond McCauley',
-    'I don\'t know who needs to hear this but cancel that free trial.  \<br> — Anonymous',
+    'I don\'t know who needs to hear this but cancel that free trial.',
     'The Force will be with you. Always. \<br>— Obi-Wan Kenobi from Star Wars',
     'I am what I am, an\' I\'m not ashamed. "Never be ashamed," my ol\' dad used ter say, "there\'s some who\'ll hold it against you, but they\'re not worth botherin\' with". \<br>— Hagrid from Harry Potter',
     'Do. Or do not. There is no try.  \<br>— Yoda from Star Wars',
