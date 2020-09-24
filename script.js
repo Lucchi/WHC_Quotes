@@ -1,10 +1,12 @@
 let quotes = [
 
     'Tough times never last, but tough people do. \<br> — Robert Schuller',
+    'Believing that everything has a solution is not optimism. Is is faith. \<br> — Surama Jurdi ',
     'If makes you happy, it can’t be that bad.',
     'Be better, than your better excuse!',
     'You are stronger than you know.',
     'A soul set free to fly',
+    'And those who were seen dancing were thought to be insane by those who could not hear the music. \<br> — Friederich Nietzsche',
     'I need to live life like some people never will',
     'And in the end the love you take is equal to the love you make \<br> — The Beatles',
     'We take from life the life that we take',
