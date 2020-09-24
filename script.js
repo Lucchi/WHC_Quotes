@@ -102,8 +102,9 @@ function displayQuote() {
 <p>We currently have ${quotes.length} quotes in our database. This is the quote number ${index + 1}.</p>
 </div>
 `;
-
-    base.innerHTML = info;
+    let footer = document.querySelector('#footer');
+    let msg = '<p><b>last modified:</b> ' + document.lastModified + '</p>';
     div.innerHTML = quote;
-
+    base.innerHTML = info;
+    footer.innerHTML = msg;
 }
