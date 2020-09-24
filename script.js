@@ -4,6 +4,7 @@ let quotes = [
     'Believing that everything has a solution is not optimism. Is is faith. \<br> — Surama Jurdi ',
     'If makes you happy, it can’t be that bad.',
     'Be better than your better excuse!',
+    'Feel compliments as deeply as you feel insults. \<br> — James Clear',
     'You are stronger than you know.',
     'A soul set free to fly',
     'And those who were seen dancing were thought to be insane by those who could not hear the music. \<br> — Friederich Nietzsche',
@@ -96,6 +97,13 @@ function displayQuote() {
 <img src="icons/favicon.png">
 </div>
 `;
+    let base = document.querySelector('#info');
+    let info = `<div class="card">
+<p>We currently have ${quotes.length} quotes in our database. This is the quote number ${index + 1}.</p>
+</div>
+`;
+
+    base.innerHTML = info;
     div.innerHTML = quote;
 
 }
