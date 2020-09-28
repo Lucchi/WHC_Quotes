@@ -13,10 +13,9 @@ let quotes = [
     'In the end, only three things matter: how much you loved, how gently you lived, and how gracefully you let go of things not meant for you. \<br> — Buddha',
     'A soul set free to fly',
     'Selfcare tip: Start your day with something that you like.',
-    'Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin. \<br> — Mother Teresa of Calcutta', ===
-    === =
-    'What you don\'t want to be done to you, don\'t do that to anyone else', >>>
-    >>> > 702 fd92ec6a4f4127842839740538e7760c6368e 'And those who were seen dancing were thought to be insane by those who could not hear the music. \<br> — Friederich Nietzsche',
+    'Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin. \<br> — Mother Teresa of Calcutta',
+    'What you don\'t want to be done to you, don\'t do that to anyone else',
+    'And those who were seen dancing were thought to be insane by those who could not hear the music. \<br> — Friederich Nietzsche',
     'I need to live life like some people never will',
     'Selfcare tip: Splurge a little. Buy a small luxury as a way of valuing yourself. I won\'t tell anybody.',
     'And in the end the love you take is equal to the love you make \<br> — The Beatles',
