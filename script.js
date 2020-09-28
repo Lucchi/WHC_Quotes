@@ -7,6 +7,7 @@ let quotes = [
     'Feel compliments as deeply as you feel insults. \<br> — James Clear',
     'You are stronger than you know.',
     'A soul set free to fly',
+    'What you don\'t want to be done to you, don\'t do that to anyone else',
     'And those who were seen dancing were thought to be insane by those who could not hear the music. \<br> — Friederich Nietzsche',
     'I need to live life like some people never will',
     'And in the end the love you take is equal to the love you make \<br> — The Beatles',
