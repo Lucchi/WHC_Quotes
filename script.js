@@ -89,7 +89,6 @@ let quotes = [
     'Selfcare tip: Give someone a genuine compliment. You will feel great.',
     'The power of music, whether joyous or cathartic must steal on one unawares, come spontaneously as a blessing or a grace  \<br>— Oliver Sacks',
     'Above all, I have been a sentient being, a thinking animal, on this beautiful planet, and that in itself has been an enormous privilege and adventure.  \<br>— Oliver Sacks',
-    'The silence depressed me. It wasn\'t the silence of silence. It was my own silence.  \<br>— Sylvia Plath, The Bell Jar',
     'I felt my lungs inflate with the onrush of scenery—air, mountains, trees, people. I thought, "This is what it is to be happy".  \<br>— Sylvia Plath, The Bell Jar',
     'Perhaps when we find ourselves wanting everything, it is because we are dangerously close to wanting nothing.  \<br>— Sylvia Plath',
     'It\'s a trap!  \<br>— Admiral Ackbar from Star Wars',
