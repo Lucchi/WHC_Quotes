@@ -15,6 +15,7 @@ let quotes = [
     'Selfcare tip: Start your day with something that you like.',
     'Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin. \<br> — Mother Teresa of Calcutta',
     'What you don\'t want to be done to you, don\'t do that to anyone else',
+    'You cannot swim for new horizons until you have courage to lose sight of the shore. \<br>― William Faulkner',
     'And those who were seen dancing were thought to be insane by those who could not hear the music. \<br> — Friederich Nietzsche',
     'I need to live life like some people never will',
     'Selfcare tip: Splurge a little. Buy a small luxury as a way of valuing yourself. I won\'t tell anybody.',
